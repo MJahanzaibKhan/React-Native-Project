@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636130708330",
+    "firebase_url": "https://push-mesa.firebaseio.com",
+    "project_id": "push-mesa",
+    "storage_bucket": "push-mesa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636130708330:android:c58bca3cf57149c83d7313",
+        "android_client_info": {
+          "package_name": "com.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636130708330-8hjc9qaq17qv46e3nk093mut7tscsii6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJQsMj7G9BZ0jKLHB6lWqD9fpMLWfR2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636130708330-8hjc9qaq17qv46e3nk093mut7tscsii6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
